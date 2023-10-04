@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.emptyactivity"
+    namespace = "com.example.exerciseactivity"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.emptyactivity"
+        applicationId = "com.example.exerciseactivity"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

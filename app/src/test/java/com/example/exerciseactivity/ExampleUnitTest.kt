@@ -1,4 +1,4 @@
-package com.example.emptyactivity
+package com.example.exerciseactivity
 
 import org.junit.Test
 

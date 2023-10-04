@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "EmptyActivity"
+rootProject.name = "ExerciseActivity"
 include(":app")
  
